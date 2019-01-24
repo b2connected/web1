@@ -29,6 +29,8 @@ img{
 	max-height:100%;	
 }
 .navbar {
+	position: fixed;
+	width: 100%;
 	background-color: black;
 	display: grid;
 	grid-template-columns: 200px 1fr 1fr 1fr 1fr 1fr 1fr 1fr 150px;
